@@ -15,7 +15,6 @@ h2 {
 }
 
 .content {
-    width: 700px;
     margin: auto;
 }
 
@@ -44,5 +43,5 @@ th {
 td:nth-child(1) {
     text-align: center
 }
-
-table#currency_data tr td, table#currency_data tr th{padding:5px;border:1px solid grey;}
+#tableData h1{text-align:center;}
+table#currencyData tr td, table#currencyData tr th{padding:10px;border:1px solid grey;}
